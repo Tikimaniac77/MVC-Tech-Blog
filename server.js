@@ -1,4 +1,3 @@
-// TECH BLOG - CHECKED, SAME AS REFERENCE
 const path = require("path");
 const express = require("express");
 const session = require("express-session");
